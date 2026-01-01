@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @cjhgit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @cjhgit
+
+## 👋 Hi, I'm Yunser
+
+- Frontend / Backend Developer
+- Node.js / TypeScript / SQL
+
+## 📊 GitHub Stats
+![stats](...)
+![activity](...)
+
+## 🛠 Tech Stack
+- JS / TS / Node
+- React / Vue
 
 <!---
 cjhgit/cjhgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
